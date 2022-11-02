@@ -5,5 +5,6 @@ let sum= a+b;
 console.log(sum);
 
 function{
+  console.log(sum);
 
 }
